@@ -1,0 +1,14 @@
+.book-image {
+    width: 220px;
+    height: 320px;
+    object-fit: cover;
+  }
+  .content-box {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+  }
+  
+  .content-box:last-of-type {
+    border-bottom: none;
+  }
