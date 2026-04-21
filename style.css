@@ -12,3 +12,8 @@
   .content-box:last-of-type {
     border-bottom: none;
   }
+.book-image {
+  width: 220px;
+  height: 320px;
+  object-fit: cover;
+}
